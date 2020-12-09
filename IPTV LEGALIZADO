@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Sbtsp.br" tvg-name="SBT SD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="CANAIS | ABERTOS",SBT SD
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="RECORD HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="CANAIS | ABERTOS",RECORD HD
+https://open.tube/static/webseed/1560013f-ecb3-4720-8416-33f940699b2c-480.mp4
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="RECORD HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil.png" group-title="CANAIS | ABERTOS",REDE BRASIL
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w272585726.m3u8
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="BAND HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-3.png" group-title="CANAIS | ABERTOS",BAND HD
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8 
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="TV REDE GOSPEL" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/ba/LGT_Rede_Gospel.png" group-title="CANAIS | ABERTOS",TV REDE GOSPEL
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="REDE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="CANAIS | ABERTOS",REDE TV
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="REDE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="CANAIS | ABERTOS",TV CULTURA
+https://media.istockphoto.com/videos/please-stand-by-text-on-tv-screen-maintenance-no-signal-silence-video-id1194528357 
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="TV BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/Logotipo_da_TV_Brasil.png" group-title="CANAIS | ABERTOS",TV BRASIL
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="TV " tvg-logo="https://demo.cdn.tv.br/logo/1578586507.6209297.png" group-title="CANAIS | ABERTOS",YEEAAH TV
+http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="TV " tvg-logo="https://www.tvfuturo.com.br/images/logo_tv_futuro_azul.png" group-title="CANAIS | ABERTOS",TV FUTURO
+https://streaming03.zas.media/tvfuturo/tvfuturo/chunklist_w820627318.m3u8
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Rede_Minas_logo.png/799px-Rede_Minas_logo.png" group-title="CANAIS | ABERTOS",REDE MINAS
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="TV " tvg-logo="https://tvmar.tv.br/novo/assets/img/SVGs/logo-tvmar-white.svg" group-title="CANAIS | ABERTOS",TV MAR
+https://media.istockphoto.com/videos/please-stand-by-text-on-tv-screen-maintenance-no-signal-silence-video-id1194528357
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="TV " tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2016/12/al-jazeera-logo.png" group-title="CANAIS | INTERNACIONAIS",ALJAZEERA
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="TV " tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/0/0f/CCTV-1.png/revision/latest?cb=20200821151602" group-title="CANAIS | INTERNACIONAIS",CCTV 1
+https://cctvcnchwh5ca.v.cdn20.com/live/cctv1_2/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="TV " tvg-logo="https://i.pinimg.com/originals/a1/70/5d/a1705d6d5f34cc8ea4d01f153952cf25.png" group-title="CANAIS | INTERNACIONAIS",CCTV 13
+https://cctvcnchwh5ca.v.cdn20.com/live/cctv13_2/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="TV " tvg-logo="https://i.dlpng.com/static/png/6570448_preview.png" group-title="CANAIS | INTERNACIONAIS",MBL
+http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Tuesday_20200707_1594148992894/3000K/3000_slide.m3u8 
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="CANAIS | INTERNACIONAIS",CANAL 26
+http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/1280px-CNN_T%C3%BCrk_logo.svg.png" group-title="CANAIS | INTERNACIONAIS",CNN TURKIE
+http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="TV " tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/cbn-logo.png" group-title="CANAIS | RADIOS",CBN SP
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="TV " tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/cbn-logo.png" group-title="CANAIS | RADIOS",CBN RJ
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="TV " tvg-logo="https://static.wixstatic.com/media/4a5d70_38e5c9063ef84793b7cd83f0763e9fcf~mv2.png/v1/fill/w_116,h_104,al_c,q_85,usm_0.66_1.00_0.01/logo-98.webp" group-title="CANAIS | RADIOS",98 FM
+https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/chunklist.m3u8
